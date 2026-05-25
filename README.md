@@ -10,15 +10,15 @@
 🐍 Skilled in Python, C, HTML, CSS & JavaScript  
 📚 Currently learning DSA, Backend Development & ML  
 🛠️ Building real-world projects to improve problem-solving skills  
-🎯 Goal: Secure a 12+ LPA Software Role before 3rd Year  
+🎯 Goal: Secure Well LPA Software Role   
 
 ---
 
 # 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pyarasani-uday-kumar-9b190366)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pyarasani-uday-kumar-9b9190366)
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pyarasani26@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udaypyarasani02@gmail.com)
 
 ---
 
