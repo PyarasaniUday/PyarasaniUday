@@ -7,16 +7,17 @@
 
 🎓 B.Tech CSM Student (Computer Science & Machine Learning)  
 💡 Passionate about AI, Machine Learning & Software Development  
-🐍 Skilled in Python, C, HTML, CSS & JavaScript  
-📚 Currently learning DSA, Backend Development & ML  
-🛠️ Building real-world projects to improve problem-solving skills  
-🎯 Goal: Secure Well LPA Software Role   
+🐍 Skilled in Python, Java, C & Web Development  
+📚 Currently learning DSA, Machine Learning & Backend Development  
+📊 Interested in AI, Data Visualization & Problem Solving  
+🛠️ Building real-world projects to improve technical skills  
+🎯 Goal: Secure a Well Paying Software Role  
 
 ---
 
 # 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pyarasani-uday-kumar-9b9190366)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pyarasani-uday-kumar-9b190366)
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udaypyarasani02@gmail.com)
 
@@ -25,10 +26,27 @@
 # 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-black?style=for-the-badge&logo=openai&logoColor=white)
+
+![DSA](https://img.shields.io/badge/DSA-00599C?style=for-the-badge)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -37,11 +55,11 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=PyarasaniUday&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=PyarasaniUday&show_icons=true&theme=tokyonight)
 
-![](https://nirzak-streak-stats.vercel.app/?user=PyarasaniUday&theme=tokyonight&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=PyarasaniUday&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PyarasaniUday&theme=tokyonight&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PyarasaniUday&layout=compact&theme=tokyonight)
 
 ---
 
