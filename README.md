@@ -6,7 +6,7 @@
 # 💫 About Me:
 
 🎓 B.Tech CSM Student (Computer Science & Machine Learning)  
-💡 Passionate about AI, Machine Learning & Software Development  
+💡 Passionate about AI, Machine Learning & Software Development   
 🐍 Skilled in Python, Java, C & Web Development  
 📚 Currently learning DSA, Machine Learning & Backend Development  
 📊 Interested in AI, Data Visualization & Problem Solving  
