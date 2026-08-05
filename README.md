@@ -62,13 +62,17 @@
 ---
 
 # 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PyarasaniUday&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=PyarasaniUday&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PyarasaniUday&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=PyarasaniUday&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PyarasaniUday&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PyarasaniUday&theme=tokyonight" alt="Top Languages" />
+</p>
 ---
 
 ## 🏆 Featured Projects
