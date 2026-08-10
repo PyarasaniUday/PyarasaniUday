@@ -70,58 +70,6 @@ I believe in learning by building — turning concepts into projects, solving pr
 
 ---
 
-## 🏆 GitHub Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PyarasaniUday\&theme=darkhub\&no-frame=true\&no-bg=true\&margin-w=10)
-
----
-
-## 🔥 Contribution Graph
-
-![Uday's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=PyarasaniUday\&theme=github-compact\&hide_border=true)
-
----
-
-# 🚀 Featured Projects
-
-### 🌾 FarmLedger AI
-
-**Agriculture + AI + Blockchain**
-
-AI-powered crop analysis and blockchain-based crop verification platform built around Cardano.
-
-### 🎭 Deepfake Detection
-
-**Computer Vision + Deep Learning**
-
-Deepfake detection system using Vision Transformer concepts, face detection and image preprocessing.
-
-### 📄 AI PDF Analyzer
-
-**Python + FastAPI + NLP**
-
-AI-powered PDF analysis and summarization application.
-
-### 💬 AI FAQ Chatbot
-
-**NLP + TF-IDF + Cosine Similarity**
-
-Intelligent FAQ chatbot capable of matching user questions with relevant answers.
-
-### 💰 Student Expense Tracker
-
-**Web Development**
-
-Web application for tracking and managing student expenses.
-
-### 🌐 Personal Portfolio
-
-**HTML + CSS + JavaScript**
-
-Personal developer portfolio showcasing projects, skills, achievements and learning journey.
-
----
-
 # 🧠 Currently Learning
 
 ```text
@@ -180,16 +128,6 @@ Development
 </a>
 
 </p>
-
----
-
-## 📊 My GitHub Journey
-
-**Total Contributions** → Visible through my GitHub contribution activity
-**🔥 Current Streak** → Shown in the streak card above
-**🏆 Longest Streak** → Shown in the streak card above
-**💻 Projects** → AI/ML + Web Development + DSA
-**📚 Learning** → Consistent improvement every day
 
 ---
 
