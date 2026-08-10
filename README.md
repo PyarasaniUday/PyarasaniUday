@@ -4,9 +4,9 @@
 
 🎓 **Computer Science & Machine Learning** student at Keshav Memorial College of Engineering, Hyderabad.
 
-I’m passionate about building practical solutions using **Artificial Intelligence, Machine Learning, Backend Development, and Data Structures & Algorithms**.
+I’m passionate about **Artificial Intelligence, Machine Learning, Backend Development, and Data Structures & Algorithms**.
 
-I believe in learning by building — turning concepts into projects, solving problems consistently, and improving every day. 🚀
+I believe in learning by building, solving problems consistently, and improving every day. 🚀
 
 ---
 
@@ -20,7 +20,6 @@ I believe in learning by building — turning concepts into projects, solving pr
 * 🧠 Learning **Generative AI, RAG & Agentic AI**
 * 🔨 Building real-world AI/ML projects
 * 🏆 Participating in hackathons and technical events
-* 🎯 Goal: Become a strong **AI/ML + Software Engineer**
 
 ---
 
@@ -28,29 +27,19 @@ I believe in learning by building — turning concepts into projects, solving pr
 
 ### 👨‍💻 Programming
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js" />
-</p>
+**Python • Java • C • JavaScript**
 
 ### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,opencv" />
-</p>
 
 **Machine Learning • Deep Learning • NLP • Generative AI • RAG • Computer Vision**
 
 ### 🌐 Web Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,fastapi,flask" />
-</p>
+**HTML • CSS • JavaScript • React • FastAPI • Flask • Express.js**
 
 ### 🗄️ Databases & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,docker" />
-</p>
+**MySQL • MongoDB • Git • GitHub • VS Code • Docker**
 
 ---
 
@@ -58,67 +47,38 @@ I believe in learning by building — turning concepts into projects, solving pr
 
 ### 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PyarasaniUday\&theme=github-dark\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=PyarasaniUday\&theme=github-dark\&hide_border=true)
 
 ### 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PyarasaniUday\&show_icons=true\&theme=github_dark\&hide_border=true\&include_all_commits=true\&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PyarasaniUday\&show_icons=true\&theme=github_dark\&hide_border=true\&include_all_commits=true)
 
 ### 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PyarasaniUday\&layout=compact\&theme=github_dark\&hide_border=true\&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PyarasaniUday\&layout=compact\&theme=github_dark\&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Achievements
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PyarasaniUday\&theme=darkhub\&no-frame=true\&no-bg=true\&margin-w=10)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PyarasaniUday\&theme=darkhub\&no-frame=true\&no-bg=true)
 
 ---
 
 ## 🔥 Contribution Graph
 
-![Uday's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=PyarasaniUday\&theme=github-compact\&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=PyarasaniUday\&theme=github-compact\&hide_border=true)
 
 ---
 
 # 🚀 Featured Projects
 
-### 🌾 FarmLedger AI
-
-**Agriculture + AI + Blockchain**
-
-AI-powered crop analysis and blockchain-based crop verification platform built around Cardano.
-
-### 🎭 Deepfake Detection
-
-**Computer Vision + Deep Learning**
-
-Deepfake detection system using Vision Transformer concepts, face detection and image preprocessing.
-
-### 📄 AI PDF Analyzer
-
-**Python + FastAPI + NLP**
-
-AI-powered PDF analysis and summarization application.
-
-### 💬 AI FAQ Chatbot
-
-**NLP + TF-IDF + Cosine Similarity**
-
-Intelligent FAQ chatbot capable of matching user questions with relevant answers.
-
-### 💰 Student Expense Tracker
-
-**Web Development**
-
-Web application for tracking and managing student expenses.
-
-### 🌐 Personal Portfolio
-
-**HTML + CSS + JavaScript**
-
-Personal developer portfolio showcasing projects, skills, achievements and learning journey.
+* 🌾 **FarmLedger AI**
+* 🎭 **Deepfake Detection**
+* 📄 **AI PDF Analyzer**
+* 💬 **AI FAQ Chatbot**
+* 💰 **Student Expense Tracker**
+* 🌐 **Personal Portfolio**
 
 ---
 
@@ -161,50 +121,13 @@ Development
 
 # 🌐 Connect With Me
 
-<p align="left">
-
-<a href="https://github.com/PyarasaniUday">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/pyarasani-uday-kumar-9b9190366/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Pyarasani_uday/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.codechef.com/users/pyarasani_uday">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</p>
+[GitHub](https://github.com/PyarasaniUday) •
+[LinkedIn](https://www.linkedin.com/in/pyarasani-uday-kumar-9b9190366/) •
+[LeetCode](https://leetcode.com/u/Pyarasani_uday/) •
+[CodeChef](https://www.codechef.com/users/pyarasani_uday/)
 
 ---
 
-## 📊 My GitHub Journey
+### 💡 Learn → Build → Solve → Share → Repeat 🚀
 
-**Total Contributions** → Visible through my GitHub contribution activity
-**🔥 Current Streak** → Shown in the streak card above
-**🏆 Longest Streak** → Shown in the streak card above
-**💻 Projects** → AI/ML + Web Development + DSA
-**📚 Learning** → Consistent improvement every day
-
----
-
-### 💡 My Philosophy
-
-> **Learn → Build → Solve → Share → Repeat 🚀**
-
-### ⭐ Thanks for visiting my profile!
-
-If you find any of my projects useful, feel free to ⭐ the repository.
-
----
-
-<p align="center">
-
-**"Consistency turns learning into expertise." 🚀**
-
-</p>
+⭐ Thanks for visiting my profile!
