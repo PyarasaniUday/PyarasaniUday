@@ -49,19 +49,6 @@ I believe in learning by building, solving problems consistently, and improving 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=PyarasaniUday\&theme=github-dark\&hide_border=true)
 
-### 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PyarasaniUday\&show_icons=true\&theme=github_dark\&hide_border=true\&include_all_commits=true)
-
-### 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PyarasaniUday\&layout=compact\&theme=github_dark\&hide_border=true)
-
----
-
-## 🏆 GitHub Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PyarasaniUday\&theme=darkhub\&no-frame=true\&no-bg=true)
 
 ---
 
