@@ -1,148 +1,51 @@
 # 👋 Hi, I'm Pyarasani Uday Kumar
 
-### 🚀 B.Tech CSM Student | AI/ML Enthusiast | Software Developer
+### 🚀 B.Tech CSM Student | AI/ML Enthusiast | Developer
 
-🎓 **Computer Science & Machine Learning** student at Keshav Memorial College of Engineering, Hyderabad.
-
-I’m passionate about building practical solutions using **Artificial Intelligence, Machine Learning, Backend Development, and Data Structures & Algorithms**.
-
-I believe in learning by building — turning concepts into projects, solving problems consistently, and improving every day. 🚀
-
----
-
-## 🧑‍💻 About Me
-
-* 🎓 B.Tech – Computer Science & Machine Learning
-* 🤖 Interested in **Artificial Intelligence & Machine Learning**
-* 💻 Practicing **Data Structures & Algorithms**
-* 🐍 Working with **Python, Java & C**
-* 🌐 Exploring **Backend & Web Development**
-* 🧠 Learning **Generative AI, RAG & Agentic AI**
-* 🔨 Building real-world AI/ML projects
-* 🏆 Participating in hackathons and technical events
-* 🎯 Goal: Become a strong **AI/ML + Software Engineer**
+🎓 Computer Science & Machine Learning student at KMCE, Hyderabad.
+🤖 Interested in **AI, Machine Learning, Generative AI & Backend Development**.
+💻 Practicing **DSA with Java** and building real-world projects.
+🚀 Currently exploring **Transformers, RAG, Agentic AI & Web Development**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming
+**Languages:** Python • Java • C • JavaScript
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js" />
-</p>
+**AI/ML:** Machine Learning • Deep Learning • NLP • Computer Vision • RAG
 
-### 🤖 AI / Machine Learning
+**Development:** React • FastAPI • Flask • Express.js • Docker
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,opencv" />
-</p>
-
-**Machine Learning • Deep Learning • NLP • Generative AI • RAG • Computer Vision**
-
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,fastapi,flask" />
-</p>
-
-### 🗄️ Databases & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,docker" />
-</p>
+**Tools:** Git • GitHub • VS Code • MySQL • MongoDB
 
 ---
 
-# 📊 GitHub Activity
+## 📊 GitHub Stats
 
-### 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=PyarasaniUday\&theme=github-dark\&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PyarasaniUday\&theme=github-dark\&hide_border=true)
-
-### 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PyarasaniUday\&show_icons=true\&theme=github_dark\&hide_border=true\&include_all_commits=true\&count_private=true)
-
-### 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PyarasaniUday\&layout=compact\&theme=github_dark\&hide_border=true\&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PyarasaniUday\&show_icons=true\&theme=github_dark\&hide_border=true\&include_all_commits=true)
 
 ---
 
-# 🧠 Currently Learning
+## 🚀 Featured Projects
 
-```text
-DSA
- ├── Arrays
- ├── Strings
- ├── Searching & Sorting
- ├── Recursion
- └── Problem Solving
-
-AI / ML
- ├── Machine Learning
- ├── Deep Learning
- ├── NLP
- ├── Transformers
- ├── RAG
- └── Agentic AI
-
-Development
- ├── React
- ├── FastAPI
- ├── Express.js
- ├── Docker
- └── Cloud / AWS
-```
+🔹 **FarmLedger AI** – AI + Blockchain for Agriculture
+🔹 **Deepfake Detection** – Computer Vision + Deep Learning
+🔹 **AI PDF Analyzer** – NLP + FastAPI
+🔹 **AI FAQ Chatbot** – NLP + TF-IDF
+🔹 **Student Expense Tracker** – Web Development
 
 ---
 
-# 📚 Coding & Learning
+## 🌐 Connect With Me
 
-💻 **LeetCode** – Problem Solving
-🔥 **CodeChef** – Competitive Programming
-🐙 **GitHub** – Projects & Open Source
-🤖 **AI/ML** – Continuous Learning
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/PyarasaniUday">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/pyarasani-uday-kumar-9b9190366/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Pyarasani_uday/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.codechef.com/users/pyarasani_uday">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</p>
+[GitHub](https://github.com/PyarasaniUday) •
+[LinkedIn](https://www.linkedin.com/in/pyarasani-uday-kumar-9b9190366/) •
+[LeetCode](https://leetcode.com/u/Pyarasani_uday/) •
+[CodeChef](https://www.codechef.com/users/pyarasani_uday)
 
 ---
 
-### 💡 My Philosophy
-
-> **Learn → Build → Solve → Share → Repeat 🚀**
-
-### ⭐ Thanks for visiting my profile!
-
-If you find any of my projects useful, feel free to ⭐ the repository.
-
----
-
-<p align="center">
-
-**"Consistency turns learning into expertise." 🚀**
-
-</p>
+### 💡 Learn • Build • Solve • Repeat 🚀
